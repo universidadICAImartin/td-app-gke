@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: python-appgke
-        image: gcr.io/icai2025/python-appgke:latest
+        image: gcr.io/dazzling-matrix-513107-a2/python-appgke:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
